@@ -1,0 +1,12 @@
+.ships {
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+    grid-template-rows: 33% 33% 33%;
+}
+
+.singleShip {
+    border: solid;
+    padding: 20px;
+    margin: 10px;
+}
+

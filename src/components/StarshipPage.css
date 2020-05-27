@@ -1,0 +1,16 @@
+.StarshipPage {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.StarshipPage-starship {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    width: 400px;
+    background-color: #416652;
+    border-radius: 5px;
+    color: white;
+}
